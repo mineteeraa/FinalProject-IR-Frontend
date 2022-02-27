@@ -1,4 +1,5 @@
-# finalproject
+# Final Term project IR [Frontend]
+This is frontend of term project II of Information Retrieval (953481)
 
 ## Project setup
 ```
